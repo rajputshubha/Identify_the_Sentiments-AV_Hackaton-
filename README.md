@@ -24,4 +24,4 @@ Only keep characters
 Keep words with length>3 only
 
 # Results:
-Achived 89% accuracy on Test Data. with rank 264 in Sentiment Analysis Hackathon.
+Acheived 89% accuracy on Test Data. with rank 264 in Sentiment Analysis Hackathon.
