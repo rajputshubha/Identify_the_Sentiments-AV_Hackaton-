@@ -21,11 +21,7 @@ Replace unidecode characters
 
 Only keep characters
 
-Keep words with length>1 only
-
-Replace words like 'whatisthis' to ' what is this'
-
-Remove repeated spaces
+Keep words with length>3 only
 
 # Results:
-Achived 89% accuracy on Test Data.
+Achived 89% accuracy on Test Data. with rank 264 in Sentiment Analysis Hackathon.
